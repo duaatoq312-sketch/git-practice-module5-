@@ -7,5 +7,6 @@ void printStatus()
 void printGrade()
 {
     cout << "Grade: Excellent" << endl;
-  
+    cout << "latest version" << endl;
+
 }
