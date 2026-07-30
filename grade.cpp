@@ -6,7 +6,7 @@ void printStatus()
 }
 void printGrade()
 {
-    cout << "Grade: Excellent" << endl;
+    cout << "Dodo's Grade: Excellent" << endl;
     cout << "new version" << endl;
 
 }
