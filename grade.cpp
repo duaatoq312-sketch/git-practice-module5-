@@ -8,6 +8,7 @@ void printGrade()
 {
     cout << "Dodo's Grade: Excellent" << endl;
     cout << "Dodo's Grade 2 : good" << endl;
+    cout << "Dodo's Grade 3 : very good" << endl;
 
     cout << "new version" << endl;
 
